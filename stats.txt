@@ -1,0 +1,327 @@
+August 31, 2023
+
+total songs:	3016
+total weight:	26322
+average weight:	8.727453580901857
+
+
+September 07, 2023
+
+playlist number:	102
+total songs:	3012
+total weight:	26075
+average weight:	8.657038512616202
+
+
+September 12, 2023
+
+playlist number:	103
+total songs:	3007
+total weight:	25742
+average weight:	8.560691719321582
+
+
+September 14, 2023
+
+playlist number:	104
+total songs:	3005
+total weight:	25531
+average weight:	8.496173044925126
+
+
+September 23, 2023
+
+playlist number:	105
+total songs:	3004
+total weight:	25435
+average weight:	8.467043941411452
+
+
+October 02, 2023
+
+playlist number:	106
+total songs:	2999
+total weight:	25245
+average weight:	8.41780593531177
+
+
+October 08, 2023
+
+playlist number:	107
+total songs:	2997
+total weight:	25062
+average weight:	8.362362362362362
+
+
+October 13, 2023
+
+playlist number:	108
+total songs:	2997
+total weight:	24998
+average weight:	8.341007674341007
+
+
+October 24, 2023
+
+playlist number:	109
+total songs:	3009
+total weight:	24875
+average weight:	8.266866068461283
+
+
+October 27, 2023
+
+playlist number:	110
+total songs:	3020
+total weight:	24757
+average weight:	8.197682119205298
+
+
+November 01, 2023
+
+playlist number:	111
+total songs:	3017
+total weight:	24686
+average weight:	8.18230029830958
+
+
+November 03, 2023
+
+playlist number:	112
+total songs:	3016
+total weight:	24777
+average weight:	8.215185676392572
+
+
+November 10, 2023
+
+playlist number:	113
+total songs:	3074
+total weight:	25106
+average weight:	8.167208848405986
+
+
+November 16, 2023
+
+playlist number:	114
+total songs:	3068
+total weight:	25275
+average weight (includes only songs with positive weight):	12.6375
+
+
+November 21, 2023
+
+playlist number:	115
+total songs:	3069
+total weight:	25494
+average weight (includes only songs with positive weight):	12.734265734265735
+
+
+November 26, 2023
+
+playlist number:	116
+total songs:	3063
+total weight:	25684
+average weight (includes only songs with positive weight):	12.25381679389313
+
+
+November 30, 2023
+
+playlist number:	117
+total songs:	3055
+total weight:	25908
+average weight (includes only songs with positive weight):	12.97995991983968
+
+
+December 05, 2023
+
+playlist number:	118
+total songs:	3051
+total weight:	25845
+average weight (includes only songs with positive weight):	12.961384152457372
+
+
+December 10, 2023
+
+playlist number:	119
+total songs:	3041
+total weight:	25903
+average weight (includes only songs with positive weight):	13.029678068410464
+
+
+December 13, 2023
+
+playlist number:	120
+total songs:	3029
+total weight:	26047
+average weight (includes only songs with positive weight):	13.115307150050352
+
+
+December 19, 2023
+
+playlist number:	121
+total songs:	3022
+total weight:	26233
+average weight (includes only songs with positive weight):	13.189039718451482
+
+
+December 24, 2023
+
+playlist number:	122
+total songs:	3031
+total weight:	26430
+average weight (includes only songs with positive weight):	13.221610805402701
+
+
+December 29, 2023
+
+playlist number:	123
+total songs:	3006
+total weight:	26535
+average weight (includes only songs with positive weight):	13.39475012619889
+
+
+January 05, 2024
+
+playlist number:	124
+total songs:	2991
+total weight:	26632
+average weight (includes only songs with positive weight):	13.484556962025316
+
+
+January 10, 2024
+
+playlist number:	125
+total songs:	2986
+total weight:	26585
+average weight (includes only songs with positive weight):	13.5155058464667
+
+
+January 14, 2024
+
+playlist number:	126
+total songs:	2984
+total weight:	26512
+average weight (includes only songs with positive weight):	13.526530612244898
+
+
+January 21, 2024
+
+playlist number:	127
+total songs:	2975
+total weight:	26326
+average weight (includes only songs with positive weight):	13.459100204498977
+
+
+January 24, 2024
+
+playlist number:	128
+total songs:	2970
+total weight:	26294
+average weight (includes only songs with positive weight):	13.525720164609053
+
+
+January 24, 2024
+
+playlist number:	129
+total songs:	2970
+total weight:	26321
+average weight (includes only songs with positive weight):	13.623706004140788
+
+
+February 01, 2024
+
+playlist number:	130
+total songs:	2960
+total weight:	26307
+average weight (includes only songs with positive weight):	13.7015625
+
+
+February 04, 2024
+
+playlist number:	131
+total songs:	2954
+total weight:	26247
+average weight (includes only songs with positive weight):	13.6703125
+
+
+February 07, 2024
+
+playlist number:	132
+total songs:	2948
+total weight:	26165
+average weight (includes only songs with positive weight):	13.713312368972746
+
+
+February 20, 2024
+
+playlist number:	133
+total songs:	2920
+total weight:	25708
+average weight (includes only songs with positive weight):	13.645435244161359
+
+
+February 23, 2024
+
+playlist number:	134
+total songs:	2914
+total weight:	25522
+average weight (includes only songs with positive weight):	13.611733333333333
+
+
+February 28, 2024
+
+playlist number:	135
+total songs:	2915
+total weight:	25549
+average weight (includes only songs with positive weight):	13.662566844919786
+
+
+March 03, 2024
+
+playlist number:	136
+total songs:	2953
+total weight:	25561
+average weight (includes only songs with positive weight):	13.453157894736842
+
+
+March 08, 2024
+
+playlist number:	137
+total songs:	2953
+total weight:	25351
+average weight (includes only songs with positive weight):	13.377836411609499
+
+
+March 08, 2024
+
+playlist number:	138
+total songs:	2953
+total weight:	25420
+average weight (includes only songs with positive weight):	13.492569002123142
+
+
+March 08, 2024
+
+playlist number:	139
+total songs:	2953
+total weight:	25361
+average weight (includes only songs with positive weight):	13.511454448588173
+
+
+March 08, 2024
+
+playlist number:	140
+total songs:	2953
+total weight:	25248
+average weight (includes only songs with positive weight):	13.508828250401285
+
+
+March 08, 2024
+
+playlist number:	141
+total songs:	2953
+total weight:	25123
+average weight (includes only songs with positive weight):	13.456347080878414
+
+
